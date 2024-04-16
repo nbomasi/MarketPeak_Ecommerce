@@ -6,9 +6,11 @@
 
 In this project I will be developing an e-commerce website for a new online marketplace named "MarketPeak." This platform will feature product listings, a shopping cart, and user authentication.To implement this project I will use Git for version control, the develpoment platform will be in a Linux environment, and deploy it on an AWS EC2 instance. You can find a suitable website template here to kickstart your development
 
-## Tasks 1: Implement Version Control with Git
+## Step 1: Development On Local Workstation
 
-**1.1.  Initialize Git Repository:**Create the project directory or folder and name it "MarketPeak_Ecommerce". then cd into the new project directory and ini
+**Tasks 1: Implement Version Control with Git**
+
+**1.1.  Initialize Git Repository:** Create the project directory or folder and name it "MarketPeak_Ecommerce". then cd into the new project directory and ini
 it as a git repository.
 
 **Note:**In carrying out the this project, I have the option of using command line terminal of choice, but because I am using windows work station, I will be using **"gitbash"**, this will allow me to run some shell commands on Windows.
