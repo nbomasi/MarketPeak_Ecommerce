@@ -28,7 +28,7 @@ git init
 
 **Note:** The above command can be ran one at a time, but I chose to run all at the same time to save time.
 
-## Tasks 2: Get Source code from template.com: 
+**Tasks 2: Get Source code from template.com:**
 
 **2.1. Obtain and Prepare the E-Commerce Website Template:** 
 As a DevOps Engineer, I don't have to develope the website code, that work is for web/software developers. Instead of developing the website from scratch, I will use a pre- existing e-commerce website template. 
@@ -46,7 +46,9 @@ It is recommended you download the specific template
 
 **Note:** I can equally unzip with windows GUI, but I used CLI because it was faster for me.
 
-## Tasks 3: Stage and Commit the Template to Git: Carrry out the following actions respectively
+**Tasks 3: Stage and Commit the Template to Git:** 
+
+Carrry out the following actions respectively
 
 ```git add .
 git config --global user.name "YourUsername"
@@ -216,7 +218,7 @@ git checkout development
 
 **1.2 Implement Changes:** On the development branch, add your new features or bug fixes. This might include updating web pages, in my case, I just changed the **slide image**
 
-**Task 2:****Version control with Git**
+**Task 2: Version control with Git**
 
 Run the following git command to stage, commit, and push to development branch:
 
